@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+
+}
+
+.nav{
+    height: 60px;
+    background-color:#0f1111;
+    color: white;
+}
+
+button{
+    background-color: #f08804;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+
+a{
+    margin-right: 200px;
+    text-decoration: none;
+    color: white;
+}
+
+.contentbox{
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+#content{
+    height: 600px;
+}
+footer{
+    background-color: black ;
+    color: white;
+    text-align: center;
+}
